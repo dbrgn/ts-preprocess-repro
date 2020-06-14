@@ -1,0 +1,19 @@
+{
+  "name": "ts-preprocess-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Danilo Bargen <mail@dbrgn.ch> (https://dbrgn.ch/)",
+  "license": "ISC",
+  "devDependencies": {
+    "svelte": "^3.23.2",
+    "svelte-loader": "^2.13.6",
+    "svelte-preprocess": "^3.9.7",
+    "typescript": "^3.9.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
